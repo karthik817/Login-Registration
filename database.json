@@ -1,0 +1,31 @@
+{
+  "karthik": [
+    {
+      "userName": "Karthik",
+      "password": "Karthik@123",
+      "fname": "Karthik",
+      "mail": "karthik@mail.com",
+      "phone": "9876543210",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "userName": "test",
+      "password": "test@123",
+      "fname": "Karthik",
+      "mail": "test@mail.com",
+      "phone": "7868087222",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "userName": "admin",
+      "password": "admin",
+      "fname": "admin",
+      "mail": "test@123.com",
+      "phone": "1234567890",
+      "gender": "male",
+      "id": 3
+    }
+  ]
+}
